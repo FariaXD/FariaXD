@@ -17,7 +17,7 @@ Cheers, I have a degree in <b>computer engineering and multimedia</b> in the uni
     <li>C#</li>
   </ul>
   Personal email:
-  <a href="">andfar10@gmail.com</a>
+  <a href="">andfar10@gmail.com</a><br>
   <a href="https://www.linkedin.com/in/andrefaria21/">André Faria</a>
 <!---
 FariaXD/FariaXD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
